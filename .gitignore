@@ -1,5 +1,7 @@
 node_modules/
-.next/
+apps/*/node_modules/
 dist/
+.build/
+.next/
+turbo/
 .env
-*.log
