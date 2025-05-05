@@ -1,0 +1,11 @@
+{
+  "name": "meu-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "devDependencies": {
+    "turbo": "^2.5.2"
+  },
+  "packageManager": "pnpm@8.9.2"
+}
